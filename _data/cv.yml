@@ -25,11 +25,12 @@
   contents:
     - title: DevOps Engineer Co-op
       institution: ProntoForms
-      year: January 2023 - April 2023
+      year: Jan 2023 - Apr 2023
       description:
         - Developed security filters in Python that enabled custom monitoring for specific AWS instances.
         - Addressed production bugs and features in Docker containers and existing AWS and 3rd party services 
           using Kanban to prioritize tasks and utilizing CI/CD pipelines to rapidly iterate.
+        - Refactored AWS Cloudformation deployments to AWS SAM using Node.js, enabling Lambda@Edge updates for AWS Cloudfront distributions.
         - Optimized repository secret scanner using Bash scripting, reducing security alerts by 50%.
         - Increased test coverage using Pytest for multiple deployment Bitbucket pipelines.
 #        - title: Description 3.
@@ -38,24 +39,29 @@
 #            - Sub-description 2.
     - title: Junior Software Developer
       institution: ISED Canada
-      year: 2020 - 2022
+      year: Sept 2020 - Dec 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Designed and developed ETL processes to clean and categorize data based on string matching algorithms using python and Postgres, resulting in a 40% increase in matching speed and accuracy.
+        - Implemented automated python scripts to transform data for ingestion by AWS Glue and AWS QuickSight.
+        - Built and debugged web-scrapper application in python, leveraging numpy, selenium and beautifulSoup4.
+        - Implemented sorting algorithms in Visual Basic, improving efficiency for the data analysis of a 5G equipment database.
+
 
     - title: Research Intern
       institution: Ericsson Inc.
-      year: May 2019 - August 2019
+      year: May 2019 - Aug 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Developed a quantitative study of governmental, industrial, and academic participation in the development of international standards which discovered actionable trends.
+        - Presented results with great success in front of industry and governmental stakeholders, leading to widespread support for new policies adoptions.
+
 
     - title: Junior Project Officer
       institution: International Telecommunication Union
-      year: September 2018 - May 2019
+      year: Sept 2018 - May 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Lead the design of a database for Intelligent Transport Systems (ITS) communication standards used by the ITU and other standards development organizations.
+        - Researched global ITS regulations from the FCC, CEPT and other national and international bodies.
+
 
 
 - title: Education
@@ -63,7 +69,7 @@
   contents:
     - title: Bachelor of Engineering in Software Engineering
       institution: Carleton University, Ottawa, Canada
-      year: 2020-2025
+      year: 2020 - 2025
       description:
         - Dean's List since 2020.
         - title: Course Work":"
