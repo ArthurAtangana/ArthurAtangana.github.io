@@ -46,7 +46,6 @@
         - Built and debugged web-scrapper application in python, leveraging numpy, selenium and beautifulSoup4.
         - Implemented sorting algorithms in Visual Basic, improving efficiency for the data analysis of a 5G equipment database.
 
-
     - title: Research Intern
       institution: Ericsson Inc.
       year: May 2019 - Aug 2019
@@ -54,15 +53,12 @@
         - Developed a quantitative study of governmental, industrial, and academic participation in the development of international standards which discovered actionable trends.
         - Presented results with great success in front of industry and governmental stakeholders, leading to widespread support for new policies adoptions.
 
-
     - title: Junior Project Officer
       institution: International Telecommunication Union
       year: Sept 2018 - May 2019
       description:
         - Lead the design of a database for Intelligent Transport Systems (ITS) communication standards used by the ITU and other standards development organizations.
         - Researched global ITS regulations from the FCC, CEPT and other national and international bodies.
-
-
 
 - title: Education
   type: time_table
@@ -72,9 +68,8 @@
       year: 2020 - 2025
       description:
         - Dean's List since 2020.
-        - title: Course Work":"
-          contents:
-            - Data Structures and Algorithms, OOP, Discrete Structure, Operating Systems
+        - title: "Course Work:"
+        - Data Structures and Algorithms, OOP, Discrete Structure, Operating Systems
     - title: Bachelor of Social Sciences in Political Science and History
       institution: University of Ottawa, Ottawa, Canada
       year: 2019
