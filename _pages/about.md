@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Current DevOps intern at ProntoForms and 3rd year software engineering student at Carleton University
 
 profile:
   align: right
