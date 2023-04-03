@@ -11,12 +11,12 @@
   contents:
     - title: Programming Languages
       description:
-        - Python, Java, C, postgreSQL, Bash, Visual Basic, JavaScript
+        - Python, Java, C, postgreSQL, Bash, Visual Basic, JavaScript (Node.js)
     - title: Frameworks and Tools
       description:
         - Git, AWS (Cloudformation, SAM, EC2, S3, Lambda, dynamoDB, CloudFront)
           Linux, Docker, JIRA, Bitbucket,
-          Pytest, JUnit
+          Pytest, JUnit, Jest,
           Pandas, Numpy, Selenium,
           Raspberry Pi, ARM Microcontrollers
 
