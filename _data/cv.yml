@@ -23,6 +23,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer
+      institution: Anvil.ai
+      year: Jan 2023 - Dec 2023
+      year: May 2024 - Sept 2024
+      description:
+        - Implemented cross-platform image builds for arm64 and amd64, and automated the build process in CI/CD pipelines.
+        - Developed a python RSQL parser using antlr4, to enable third party xml lookup integration.
+        - Developed automated testing for fronted and backend developers and optimized cacching for shared resources, which resulted in a significant sspeed increase for the development loop.
+        - Designed and deployed CI/CD pipelines to scan for vulnerabilities in third party dependencies as well as static analysis and linting using docker containers.
     - title: DevOps Engineer Co-op
       institution: ProntoForms
       year: Jan 2023 - Apr 2023
